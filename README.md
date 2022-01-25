@@ -5,14 +5,15 @@ Amazon.com, Inc. is an **American** multinational technology company which focus
 It is one of the Big Five companies in the U.S. 
 
 information technology industry.__Apple,Meta__.
-Visit apple [here](www.apple.com)
+Visit apple [here](https://www.apple.com)
+An image of fish 
 
 The are of a circle is pir time 'radius' squared and implemented by python function
 
 '''
-def area(radius):
- return pi*radius**2
- '''
+ def area(radius):
+  return pi*radius**2
+'''
 * one
 
 4. A
